@@ -3,4 +3,7 @@
 * This is build with powershell api.
   * [powershell-api](https://github.com/profesorfalken/jPowerShell)
 
-> Download the jar file from `build/libs/`
+> Download the jar file from `build/libs/` 
+
+
+Note: Your device must have powershell installed to run this.
